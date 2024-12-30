@@ -1,0 +1,10 @@
+path: ./Fisheye8K_all/ 
+train: train
+val: test
+
+names:
+    0: Bus
+    1: Bike
+    2: Car
+    3: Pedestrian
+    4: Truck
